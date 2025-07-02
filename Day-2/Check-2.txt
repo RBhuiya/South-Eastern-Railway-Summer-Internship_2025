@@ -1,0 +1,32 @@
+✅ Summary of Oracle 11g SQL Plus Commands Learned Today
+📌 1. Creating a Tablespace
+	-A tablespace is a storage location where actual data gets stored.
+Syntax:
+SQL>create tablespace <table_name> datafile '<oracle_install_path>\orcl01.dbf' size 1024m autoextend on;
+
+Example Used:
+SQL>create tablespace t1 datafile 'C:\app\rahul\oradata\orcl\orcl01.dbf' size 1024m autoextend on;
+
+NOTE: You must locate and copy the correct Oracle 11g installation path before running the command.
+
+📌 2. Creating a User
+	-A user is required to access and interact with the Oracle database.
+
+Syntax:
+SQL>create user <user_name> identified by <password> default tablespace <tablespace_name> temporary tablespace temp;
+
+Example Used:
+SQL>create user rahul_1 identified by Orcl123 default tablespace t1 temporary tablespace temp;
+
+📌 3. Granting DBA Permissions
+	-Users need permissions to perform database operations.
+
+Syntax:
+SQL>grant connect, resource, dba to <user_name>;
+
+Example Used:
+grant connect, resource, dba to rahul_1;
+
+💡 You’ve successfully created a tablespace, added a user, and granted full DBA permissions — fundamental steps to managing Oracle databases!
+-----------------------------------------------------------------------X--------------------------------------------------------------------------
+								      DONE
