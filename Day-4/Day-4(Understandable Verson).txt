@@ -1,0 +1,129 @@
+📘 Database Table Definitions and Insertions
+This document outlines the creation of four master and transactional tables for managing department, division, and employee information, along with the sample data insertions.
+🧱 (1) Department Master Table
+✅ Table Creation Syntax:
+
+SQL> CREATE TABLE Dept (
+    dept_id   NUMBER(3) NOT NULL,
+    dept_name VARCHAR2(50),
+    Divn_id   NUMBER(3)
+);
+
+🧱 (2) Division Master Table
+✅ Table Creation Syntax:
+
+SQL> CREATE TABLE Division_Master (
+    Divn_id   NUMBER(3) PRIMARY KEY,
+    Divn_name VARCHAR2(50),
+    LOC       VARCHAR2(100)
+);
+
+🧱 (3) Employee Information Table
+✅ Table Creation Syntax:
+
+SQL> CREATE TABLE Employee_Info (
+    Emp_id      NUMBER(10) PRIMARY KEY,
+    Group_name  VARCHAR2(50),
+    DOB         DATE,
+    Mob_NO      VARCHAR2(15),
+    email_id    VARCHAR2(100)
+);
+
+🧱 (4) Employee Details Table
+✅ Table Creation Syntax:
+
+
+SQL> CREATE TABLE Employ_Details (
+    emp_id     NUMBER(5),
+    divn_id    NUMBER(3),
+    dept_id    NUMBER(3),
+    Basic_Pay  NUMBER(10, 2)
+);
+
+------------------------------X-----------------------------------
+			TABLE CREAT Done
+
+📝 Data Insertions
+📌 (5) Insert Records into Dept Table
+✅ Syntax:
+INSERT INTO Dept (dept_id, dept_name, Divn_id)
+VALUES (<dept_id_value>, '<dept_name_value>', <Divn_id_value>);
+💡 Examples:
+
+INSERT INTO Dept VALUES (101, 'Human Resources', 1);
+INSERT INTO Dept VALUES (102, 'Finance', 4);
+INSERT INTO Dept VALUES (103, 'IT', 2);
+INSERT INTO Dept VALUES (104, 'Corporate', 3);
+
+(6) Insert Records into Division_Master Table
+✅ Syntax:
+INSERT INTO Division_Master (Divn_id, Divn_name, LOC)
+VALUES (<Divn_id_value>, '<Divn_name_value>', '<LOC_value>');
+
+💡 Examples:
+
+SQL>INSERT INTO Division_Master VALUES (1, 'Human Resources', 'Howrah');
+SQL>INSERT INTO Division_Master VALUES (2, 'IT', 'BNR');
+SQL>INSERT INTO Division_Master VALUES (3, 'Corporate', 'Bandel');
+
+
+📌 (7) Insert Records into Employee_Info Table
+✅ Syntax:
+INSERT INTO Employee_Info (Emp_id, Group_name, DOB, Mob_NO, email_id)
+VALUES (<Emp_id>, '<Group_name>', TO_DATE('<DOB>', 'YYYY-MM-DD'), '<Mob_NO>', '<email_id>');
+
+💡 Examples:
+
+SQL>INSERT INTO Employ_Details (emp_id, divn_id, dept_id, Basic_Pay)
+VALUES (101 ,2 ,103 , 61000.50);
+
+SQL>INSERT INTO Employ_Details (emp_id, divn_id, dept_id, Basic_Pay)
+VALUES (102 ,2 ,103 , 61000.50);
+
+SQL>INSERT INTO Employ_Details (emp_id, divn_id, dept_id, Basic_Pay)
+VALUES (103 ,2 ,103 , 50000.00);
+
+SQL>INSERT INTO Employ_Details (emp_id, divn_id, dept_id, Basic_Pay)
+VALUES (104 ,2 ,103 , 70000.00);
+
+SQL>INSERT INTO Employ_Details (emp_id, divn_id, dept_id, Basic_Pay)
+VALUES (105 ,2 ,103 , 75000.10);
+
+SQL>INSERT INTO Employ_Details (emp_id, divn_id, dept_id, Basic_Pay)
+VALUES (106 ,2 ,103 , 96000.50);
+
+SQL>INSERT INTO Employ_Details (emp_id, divn_id, dept_id, Basic_Pay)
+VALUES (107 ,3 ,104 , 72500.00);
+
+SQL>INSERT INTO Employ_Details (emp_id, divn_id, dept_id, Basic_Pay)
+VALUES (108 ,3 ,104 , 72500.00);
+
+SQL>INSERT INTO Employ_Details (emp_id, divn_id, dept_id, Basic_Pay)
+VALUES (109 ,3 ,104 , 66245.10);
+
+SQL>INSERT INTO Employ_Details (emp_id, divn_id, dept_id, Basic_Pay)
+VALUES (110 ,3 ,104 , 42500.20);
+
+SQL>INSERT INTO Employ_Details (emp_id, divn_id, dept_id, Basic_Pay)
+VALUES (111 ,3 ,104 , 57100.40);
+
+SQL>INSERT INTO Employ_Details (emp_id, divn_id, dept_id, Basic_Pay)
+VALUES (112 ,3 ,104 , 79990.00);
+
+SQL>INSERT INTO Employ_Details (emp_id, divn_id, dept_id, Basic_Pay)
+VALUES (113 ,1 ,101 , 22500.00);
+
+SQL>INSERT INTO Employ_Details (emp_id, divn_id, dept_id, Basic_Pay)
+VALUES (114 ,1 ,101 , 40000.00);
+
+SQL>INSERT INTO Employ_Details (emp_id, divn_id, dept_id, Basic_Pay)
+VALUES (115 ,1 ,101 , 22500.00);
+
+SQL>INSERT INTO Employ_Details (emp_id, divn_id, dept_id, Basic_Pay)
+VALUES (113 ,1 ,101 , 42143.50);
+
+SQL>INSERT INTO Employ_Details (emp_id, divn_id, dept_id, Basic_Pay)
+VALUES (116 ,1 ,101 , 42143.50);
+
+--------------------------------------------x----------------------------------------
+				INSERSION OF DATA Done
