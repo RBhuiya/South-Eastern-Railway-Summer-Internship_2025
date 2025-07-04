@@ -1,0 +1,17 @@
+Today we have learned about the real database on the following  parameters:-
+
+1. Hardware Specification:- 
+
+Model Name: Intel(R) Xeon(R) CPU E5-2609 v2 @ 2.50 GHz
+Architecture: x86_64
+CPU op mode(s): Little Endian
+CPU(s): 8
+Thread Per Core: 8
+Socket:2
+NUMA node(s): 2
+Vendor ID: GenuineIntel
+CPU Family: 6
+L2 Cache: 32K
+L3 Cache: 256K
+
+
