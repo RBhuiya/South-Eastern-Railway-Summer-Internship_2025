@@ -24,4 +24,4 @@ CREATE TABLE Dept (
 );
 ```
 #### 🖥️ **Output**
-
+![](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/4bdf225a26614e5d07006b5fdb1906e1afbd78af/All%20Screenshots/Day-4/CREATE%20TABLE%20Dept.png)
