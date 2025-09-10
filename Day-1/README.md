@@ -8,11 +8,11 @@
 
 3. Start Setup:
 
-	-Run the file named “setup” as Administrator (Right-click > Run as Administrator).
+	- Run the file named “setup” as Administrator (Right-click > Run as Administrator).
 
 4. Security Configuration:
 
-	-Skip entering the email for Oracle Security Updates.
+	- Skip entering the email for Oracle Security Updates.
 
 	-When prompted, use the following:
 
@@ -20,7 +20,7 @@
 
 5. Installation Type:
 
-	-Choose "Create and Configure a Database" option under Installation Operation.
+	- Choose "Create and Configure a Database" option under Installation Operation.
 
 5.System Class:
 
@@ -40,11 +40,11 @@
 
 8. .NET Framework Notice:
 
-	-The installer may automatically install .NET 3.5 if it's missing from the system.
+	- The installer may automatically install .NET 3.5 if it's missing from the system.
 
 9. Review & Install:
 
-	-Review the summary page and click Install to begin.
+	- Review the summary page and click Install to begin.
 
 # 💡 Note:
 	- This completes the foundational setup required to begin using Oracle 11g for database operations.
