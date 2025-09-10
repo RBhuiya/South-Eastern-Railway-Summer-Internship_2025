@@ -1,4 +1,4 @@
-# 🚂 Day 2 – Oracle 11g SQL*Plus: Creating Tablespace, User, and Granting DBA Access 🛤️
+# 🚂 Day 2 – Oracle 11g SQL*Plus Creating Tablespace, User and Granting DBA Access 🛤️
 
 ---
 
