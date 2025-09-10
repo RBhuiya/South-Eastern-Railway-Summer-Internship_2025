@@ -23,3 +23,9 @@ CREATE TABLESPACE <tablespace_name>
 DATAFILE '<oracle_install_path>\orcl01.dbf'
 SIZE 1024M 
 AUTOEXTEND ON;
+```
+#### 🖥️ **Output**
+ ```
+![Create Table.png](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/6c3d3959954027579af1249e9ecafb66e0231e28/All%20Screenshots/Day-2/Create%20Table.png)
+ ```
+
