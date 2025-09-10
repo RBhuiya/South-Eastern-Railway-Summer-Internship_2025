@@ -103,6 +103,7 @@ INSERT INTO Dept VALUES (104, 'Corporate', 3);
 ![INSERTT INTO Dept.png](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/869dfda11f71937a39c174f4eab93a40efa0c643/All%20Screenshots/Day-4/INSERTT%20INTO%20Dept.png)
 
 ---
+
 ## 📌 6. Insert Records into Division_Master Table
 
 ### ✅ Syntax:
@@ -118,5 +119,50 @@ INSERT INTO Division_Master VALUES (3, 'Corporate', 'Bandel');
 ```
 
 #### 🖥️ **Output**
-![]()
+![INSERT Employee_Details.png](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/344f98a82b3d44696fc4373f9f8d5aa48c3b5ab2/All%20Screenshots/Day-4/INSERT%20Employee_Details.png)
+
+---
+
+## 📌 7. Insert Records into Employ_Details Table
+
+### ✅ Syntax:
+```sql
+INSERT INTO Employ_Details (emp_id, divn_id, dept_id, Basic_Pay)
+VALUES (<emp_id>, <divn_id>, <dept_id>, <Basic_Pay>);
+```
+### 💡 Examples:
+```sql
+INSERT INTO Employ_Details VALUES (101 ,2 ,103 , 61000.50);
+INSERT INTO Employ_Details VALUES (102 ,2 ,103 , 61000.50);
+INSERT INTO Employ_Details VALUES (103 ,2 ,103 , 50000.00);
+INSERT INTO Employ_Details VALUES (104 ,2 ,103 , 70000.00);
+INSERT INTO Employ_Details VALUES (105 ,2 ,103 , 75000.10);
+INSERT INTO Employ_Details VALUES (106 ,2 ,103 , 96000.50);
+INSERT INTO Employ_Details VALUES (107 ,3 ,104 , 72500.00);
+INSERT INTO Employ_Details VALUES (108 ,3 ,104 , 72500.00);
+INSERT INTO Employ_Details VALUES (109 ,3 ,104 , 66245.10);
+INSERT INTO Employ_Details VALUES (110 ,3 ,104 , 42500.20);
+INSERT INTO Employ_Details VALUES (111 ,3 ,104 , 57100.40);
+INSERT INTO Employ_Details VALUES (112 ,3 ,104 , 79990.00);
+INSERT INTO Employ_Details VALUES (113 ,1 ,101 , 22500.00);
+INSERT INTO Employ_Details VALUES (114 ,1 ,101 , 40000.00);
+INSERT INTO Employ_Details VALUES (115 ,1 ,101 , 22500.00);
+INSERT INTO Employ_Details VALUES (116 ,1 ,101 , 42143.50);
+```
+
+#### 🖥️ **Output**
+![INSERT Employee_Info (2).png]()
+
+---
+
+# ✅ DATA INSERTION: COMPLETED
+
+---
+
+# 📌 Summary
+
+- On Day 4, we successfully:
+    - Created 4 database tables for managing employee, department, and division data
+    - Inserted sample data into these tables
+    - Understood the fundamentals of relational data structures and SQL DML operations
 
