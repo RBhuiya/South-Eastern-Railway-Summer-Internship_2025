@@ -151,7 +151,7 @@ INSERT INTO Employ_Details VALUES (116 ,1 ,101 , 42143.50);
 ```
 
 #### 🖥️ **Output**
-![INSERT Employee_Info (2).png]()
+![INSERT Employee_Info (2).png](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/b343842da7e0da577093b79c220742d23480d5e7/All%20Screenshots/Day-4/INSERT%20Employee_Info%20(2).png)
 
 ---
 
