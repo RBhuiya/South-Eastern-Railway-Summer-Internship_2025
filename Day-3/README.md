@@ -1,5 +1,5 @@
 # 🚂 Day 3 – Real-World Database Backend at South Eastern Railway 🛤️
-![]()
+![](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/2780b169bf376f783cee99f27cbd334703187003/All%20Screenshots/Day-3/Server%20Specification.jpegv)
 ---
 
 ## 🎯 Objectives
@@ -17,5 +17,6 @@ On Day 3 of our internship, we explored the **backend systems** that support Sou
 ---
 
 ## 🖥️ Hardware Specifications
-Below are the actual hardware specifications of the backend servers used at South Eastern Railway:
-
+- Below are the actual hardware specifications of the backend servers used at South Eastern Railway:
+  - ![](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/2780b169bf376f783cee99f27cbd334703187003/All%20Screenshots/Day-3/Server%20Specification.jpegv)
+ 
