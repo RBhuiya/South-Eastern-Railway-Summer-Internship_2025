@@ -179,3 +179,7 @@ INSERT INTO Employ_Details VALUES (116 ,1 ,101 , 42143.50);
     - Inserted sample data into these tables
     - Understood the fundamentals of relational data structures and SQL DML operations
 
+---
+
+# 👨‍💼Author
+Mr. Rahul Bhuiya | 4th year CSE-AIML student at MCKVIE'26🎓
