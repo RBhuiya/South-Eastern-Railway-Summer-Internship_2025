@@ -1,0 +1,33 @@
+Install SQL Developer application
+
+pros:
+in SQL Developer: we can insert 8654 rows at a time or more than thousands of data at a time in some fraction of seconds. 
+
+NOTE:-
+
+1. Name: Rahul 
+User Info:
+
+Username: Rahul 
+Password: Orcl123
+Role: "Default"
+
+Connection Type: "Basic"
+
+Details
+Hostname: localhost
+Port: 1521
+Service Name: orcl
+
+2. Name: User Info:
+
+Username:  
+Password: 
+Role: "Default"
+
+Connection Type: "Basic"
+
+Details
+Hostname: 
+Port: 1521
+Service Name: orcl
