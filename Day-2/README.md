@@ -29,7 +29,7 @@ AUTOEXTEND ON;
 
 ---
 
-### 📌 📌 Step 2: Create a New User
+### 📌 Step 2: Create a New User
 #### 🔤 **Syntax**
 ```sql
 CREATE USER rahul_1 
