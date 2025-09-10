@@ -24,7 +24,7 @@
 
 5.System Class:
 
-	-Select "Desktop Class" (suitable for single-user environments).
+	- Select "Desktop Class" (suitable for single-user environments).
 
 6.Grid Installation:
 
@@ -32,11 +32,11 @@
 
 7.Prerequisite Checks:
 
-	-Ensure all locations are set to C:\ Drive.
+	- Ensure all locations are set to C:\ Drive.
 
-	-Set the Admin Password as Orcl123.
+	- Set the Admin Password as Orcl123.
 
-	-Click Yes to proceed if prompted.
+	- Click Yes to proceed if prompted.
 
 8. .NET Framework Notice:
 
