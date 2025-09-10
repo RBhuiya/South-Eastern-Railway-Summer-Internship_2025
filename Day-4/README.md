@@ -57,4 +57,20 @@ CREATE TABLE Employee_Info (
 );
 ```
 #### 🖥️ **Output**
-![](CREATE TABLE Employee_Info, Employ_details.png)[]
+![CREATE TABLE Employee_Info, Employ_details.png](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/2bee0d0d4b2f250909a2349cda529daf2d9b0af3/All%20Screenshots/Day-4/CREATE%20TABLE%20Employee_Info%2C%20Employ_details.png)
+
+---
+
+## 🧱 4. Employee Details Table
+
+### ✅ Table Creation Syntax
+```sql
+CREATE TABLE Employ_Details (
+    emp_id     NUMBER(5),
+    divn_id    NUMBER(3),
+    dept_id    NUMBER(3),
+    Basic_Pay  NUMBER(10, 2)
+);
+```
+#### 🖥️ **Output**
+![]()
