@@ -1,5 +1,5 @@
 #  🚂 Day 1 - Installation of Oracle 11g Database 🛤️
-![](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/fbc8d5b578e47f50e654e459f8649c095467c3c4/All%20Screenshots/Day-1/SQL%20Plus%20Database%20Connection%20Check.png)
+![SQL Plus Database Connection Check.png](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/fbc8d5b578e47f50e654e459f8649c095467c3c4/All%20Screenshots/Day-1/SQL%20Plus%20Database%20Connection%20Check.png)
 # 📌 Objective:
 - To successfully install the Oracle 11g Database Management System on local machines for hands-on SQL training.
 
