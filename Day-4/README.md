@@ -100,4 +100,23 @@ INSERT INTO Dept VALUES (104, 'Corporate', 3);
 ```
 
 #### 🖥️ **Output**
-![INSERTT INTO Dept.png]()
+![INSERTT INTO Dept.png](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/869dfda11f71937a39c174f4eab93a40efa0c643/All%20Screenshots/Day-4/INSERTT%20INTO%20Dept.png)
+
+---
+## 📌 6. Insert Records into Division_Master Table
+
+### ✅ Syntax:
+```sql
+INSERT INTO Division_Master (Divn_id, Divn_name, LOC)
+VALUES (<Divn_id_value>, '<Divn_name_value>', '<LOC_value>');
+```
+### 💡 Examples:
+```sql
+INSERT INTO Division_Master VALUES (1, 'Human Resources', 'Howrah');
+INSERT INTO Division_Master VALUES (2, 'IT', 'BNR');
+INSERT INTO Division_Master VALUES (3, 'Corporate', 'Bandel');
+```
+
+#### 🖥️ **Output**
+![]()
+
