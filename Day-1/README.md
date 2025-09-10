@@ -1,6 +1,6 @@
 #  🚂 Day 1 - Installation of Oracle 11g Database 🛤️
 # 📌 Objective:
-	- To successfully install the Oracle 11g Database Management System on local machines for hands-on SQL training.
+- To successfully install the Oracle 11g Database Management System on local machines for hands-on SQL training.
 
 # 🛠️ Steps to Install Oracle 11g:
 1. Navigate to Installation Folder:
