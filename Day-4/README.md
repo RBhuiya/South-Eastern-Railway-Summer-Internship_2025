@@ -5,6 +5,15 @@ This document outlines the creation of **four master and transactional tables** 
 ![CREATE TABLE Dept.png
 ](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/4bdf225a26614e5d07006b5fdb1906e1afbd78af/All%20Screenshots/Day-4/CREATE%20TABLE%20Dept.png)
 
+- CREATE TABLE Division Master 
+![CREATE TABLE Division Master.png](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/59231100ed2b3a44e94c14742b47dd43c6667883/All%20Screenshots/Day-4/CREATE%20TABLE%20Division%20Master.png)
+
+- CREATE TABLE Employee_Info
+![CREATE TABLE Employee_Info, Employ_details.png](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/2bee0d0d4b2f250909a2349cda529daf2d9b0af3/All%20Screenshots/Day-4/CREATE%20TABLE%20Employee_Info%2C%20Employ_details.png)
+
+- Employee Details Table
+![INSERT Employee_Details (2).png](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/adf85c112c66767bda0b9b72d717b5c1e4ef42d3/All%20Screenshots/Day-4/INSERT%20Employee_Details%20(2).png)
+
 
 ---
 
