@@ -1,4 +1,4 @@
-# ✅ Day 1 - Installation of Oracle 11g Database  
+#  🚂 Day 1 - Installation of Oracle 11g Database 🛤️
 # 📌 Objective:
 	- To successfully install the Oracle 11g Database Management System on local machines for hands-on SQL training.
 
