@@ -16,7 +16,6 @@ By the end of this session, you will have learned how to:
 ---
 
 ### 📌 Step 1: Create a Tablespace
-
 #### 🔤 **Syntax**
 ```sql
 CREATE TABLESPACE <tablespace_name>
@@ -28,4 +27,16 @@ AUTOEXTEND ON;
  
 ![Create Table.png](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/6c3d3959954027579af1249e9ecafb66e0231e28/All%20Screenshots/Day-2/Create%20Table.png)
 
+---
 
+### 📌 📌 Step 2: Create a New User
+#### 🔤 **Syntax**
+```sql
+CREATE USER rahul_1 
+IDENTIFIED BY Orcl123 
+DEFAULT TABLESPACE t1 
+TEMPORARY TABLESPACE temp;
+```
+#### 🖥️ **Output**
+ 
+![Create Table.png](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/6c3d3959954027579af1249e9ecafb66e0231e28/All%20Screenshots/Day-2/Create%20Table.png)
