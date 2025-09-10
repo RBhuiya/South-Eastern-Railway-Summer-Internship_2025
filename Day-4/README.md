@@ -40,4 +40,21 @@ CREATE TABLE Division_Master (
 );
 ```
 #### 🖥️ **Output**
-![]()
+![CREATE TABLE Division Master.png](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/59231100ed2b3a44e94c14742b47dd43c6667883/All%20Screenshots/Day-4/CREATE%20TABLE%20Division%20Master.png)
+
+---
+
+## 🧱 3. Employee Information Table
+
+### ✅ Table Creation Syntax
+```sql
+CREATE TABLE Employee_Info (
+    Emp_id      NUMBER(10) PRIMARY KEY,
+    Group_name  VARCHAR2(50),
+    DOB         DATE,
+    Mob_NO      VARCHAR2(15),
+    email_id    VARCHAR2(100)
+);
+```
+#### 🖥️ **Output**
+![](CREATE TABLE Employee_Info, Employ_details.png)[]
