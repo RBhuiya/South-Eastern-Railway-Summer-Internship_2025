@@ -14,9 +14,9 @@
 
 	- Skip entering the email for Oracle Security Updates.
 
-	-When prompted, use the following:
+	- When prompted, use the following:
 
-		-My Oracle Support Password: Orcl123
+		- My Oracle Support Password: Orcl123
 
 5. Installation Type:
 
