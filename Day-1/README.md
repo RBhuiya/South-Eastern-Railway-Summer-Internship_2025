@@ -1,17 +1,16 @@
 # ✅ Day 1 - Installation of Oracle 11g Database  
 # 📌 Objective:
-- To successfully install the Oracle 11g Database Management System on local machines for hands-on SQL training.
+	- To successfully install the Oracle 11g Database Management System on local machines for hands-on SQL training.
 
-#🛠️ Steps to Install Oracle 11g:
+# 🛠️ Steps to Install Oracle 11g:
 1. Navigate to Installation Folder:
-
 	-Open the folder named "Oracle 11G" provided for the installation.
 
-2. Start Setup:
+3. Start Setup:
 
 	-Run the file named “setup” as Administrator (Right-click > Run as Administrator).
 
-3. Security Configuration:
+4. Security Configuration:
 
 	-Skip entering the email for Oracle Security Updates.
 
@@ -19,7 +18,7 @@
 
 		-My Oracle Support Password: Orcl123
 
-4. Installation Type:
+5. Installation Type:
 
 	-Choose "Create and Configure a Database" option under Installation Operation.
 
@@ -48,4 +47,4 @@
 	-Review the summary page and click Install to begin.
 
 # 💡 Note:
-- This completes the foundational setup required to begin using Oracle 11g for database operations.
+	- This completes the foundational setup required to begin using Oracle 11g for database operations.
