@@ -3,10 +3,10 @@
 
 # 📌 Objective:
 - To successfully install the Oracle 11g Database Management System on local machines for hands-on SQL training.
-
+- 
+# 🛠️ Steps to Install Oracle 11g:
 ![Setup.png](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/f87955f9f78b9dde9f6b901f4965cf5b759cec1f/All%20Screenshots/Day-1/Setup.png)
 
-# 🛠️ Steps to Install Oracle 11g:
 1. Navigate to Installation Folder:
 	- Open the folder named "Oracle 11G" provided for the installation.
 
