@@ -4,7 +4,7 @@
 
 # 🛠️ Steps to Install Oracle 11g:
 1. Navigate to Installation Folder:
-	-Open the folder named "Oracle 11G" provided for the installation.
+	- Open the folder named "Oracle 11G" provided for the installation.
 
 3. Start Setup:
 
