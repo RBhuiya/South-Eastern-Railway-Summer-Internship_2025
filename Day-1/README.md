@@ -52,3 +52,7 @@
 
 # 💡 Note
 - This completes the foundational setup required to begin using Oracle 11g for database operations.
+
+# 👨‍💼Author
+Mr. Rahul Bhuiya | 4th year CSE-AIML student at MCKVIE'26🎓
+
