@@ -73,4 +73,31 @@ CREATE TABLE Employ_Details (
 );
 ```
 #### 🖥️ **Output**
-![]()
+![INSERT Employee_Details (2).png](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/adf85c112c66767bda0b9b72d717b5c1e4ef42d3/All%20Screenshots/Day-4/INSERT%20Employee_Details%20(2).png)
+
+# ✅ TABLE CREATION: COMPLETED
+
+---
+
+## 📝 Data Insertions
+
+---
+
+
+## 📌 5. Insert Records into Dept Table
+
+### ✅ Syntax:
+```sql
+INSERT INTO Dept (dept_id, dept_name, Divn_id)
+VALUES (<dept_id_value>, '<dept_name_value>', <Divn_id_value>);
+```
+### 💡 Examples:
+```sql
+INSERT INTO Dept VALUES (101, 'Human Resources', 1);
+INSERT INTO Dept VALUES (102, 'Finance', 4);
+INSERT INTO Dept VALUES (103, 'IT', 2);
+INSERT INTO Dept VALUES (104, 'Corporate', 3);
+```
+
+#### 🖥️ **Output**
+![INSERTT INTO Dept.png]()
