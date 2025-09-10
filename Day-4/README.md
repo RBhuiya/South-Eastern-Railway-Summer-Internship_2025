@@ -24,4 +24,20 @@ CREATE TABLE Dept (
 );
 ```
 #### 🖥️ **Output**
-![](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/4bdf225a26614e5d07006b5fdb1906e1afbd78af/All%20Screenshots/Day-4/CREATE%20TABLE%20Dept.png)
+![CREATE TABLE Dept.png
+](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/4bdf225a26614e5d07006b5fdb1906e1afbd78af/All%20Screenshots/Day-4/CREATE%20TABLE%20Dept.png)
+
+---
+
+## 🧱 2. Division Master Table
+
+### ✅ Table Creation Syntax
+```sql
+CREATE TABLE Division_Master (
+    Divn_id   NUMBER(3) PRIMARY KEY,
+    Divn_name VARCHAR2(50),
+    LOC       VARCHAR2(100)
+);
+```
+#### 🖥️ **Output**
+![]()
