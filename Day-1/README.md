@@ -46,5 +46,5 @@
 
 	- Review the summary page and click Install to begin.
 
-# 💡 Note:
+# 💡 Note
 - This completes the foundational setup required to begin using Oracle 11g for database operations.
