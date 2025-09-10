@@ -39,4 +39,4 @@ TEMPORARY TABLESPACE temp;
 ```
 #### 🖥️ **Output**
  
-![Create User, Grand Permission to DBA.png]([https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/6c3d3959954027579af1249e9ecafb66e0231e28/All%20Screenshots/Day-2/Create%20Table.png](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/bfa2849a9ad9c61c0cac0c4d81e36b9aa74debf7/All%20Screenshots/Day-2/Create%20User%2C%20Grand%20Permission%20to%20DBA.png))
+![Create User, Grand Permission to DBA.png](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/6c3d3959954027579af1249e9ecafb66e0231e28/All%20Screenshots/Day-2/Create%20Table.png](https://github.com/RBhuiya/South-Eastern-Railway-Summer-Internship_2025/blob/bfa2849a9ad9c61c0cac0c4d81e36b9aa74debf7/All%20Screenshots/Day-2/Create%20User%2C%20Grand%20Permission%20to%20DBA.png)
